@@ -17,7 +17,7 @@ job('job_dsl_example') {
 }
 
 
-job('aur naya job') {
+job('git se create kiya ') {
 	description('dats ma description')
   
    
